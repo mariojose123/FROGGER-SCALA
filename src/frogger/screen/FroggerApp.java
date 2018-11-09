@@ -28,9 +28,6 @@ import java.util.concurrent.TimeUnit;
 
 import javafx.scene.input.KeyCode;
 
-/**
- * @author Almas Baimagambetov (AlmasB) (almaslvl@gmail.com)
- */
 public class FroggerApp extends Application {
 
     private AnimationTimer timer;
